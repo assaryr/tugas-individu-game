@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/game sederhana.unity
+  isLoaded: 1
+  isActive: 1
